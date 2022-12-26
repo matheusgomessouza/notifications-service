@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias / This project was de
 
 **💻 Projeto / Project**
 
-
+Notifications Service is a microservice for push notifications
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **🚀 Como executar / How to run**
