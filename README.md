@@ -15,6 +15,9 @@ Notifications Service is a microservice for push notifications
 
 **🚀 Como executar / How to run**
 
+- Clone o repositório / Clone the repository 
+- Instale as dependências com `yarn` / Install the dependencies with `yarn`
+- Inicie o servidor com `yarn start:dev` / Start the server with `yarn start:dev`
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
